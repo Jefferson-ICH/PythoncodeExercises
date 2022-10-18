@@ -1,2 +1,2 @@
 # PythoncodeExercises
-Typical python exrcesises Bucles,convertion,conectionDatabases
+Typical python exercises Bucles,convertion,conectionDatabases
